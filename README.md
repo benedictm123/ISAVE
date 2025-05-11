@@ -1,6 +1,9 @@
 Application used to create this app is android studio meerkat 2024 version.
 The database that is used is SQLite.
 
+This is the link to the video showing how to use the app: https://youtu.be/lpGA0Ikc0Mg 
+
+
 How to run the app on android studio and/or on your android phone:
 1. Firstly after opening the project using android studio, go to the green arrow at the top ribbon of the studio then run it.
 2. If it happens it problems running it on android studio, you can always run it on your android device.
